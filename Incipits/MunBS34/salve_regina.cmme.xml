@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Piece xmlns="http://www.cmme.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.cmme.org cmme.xsd" CMMEversion="0.81">
+  <GeneralData>
+    <Incipit />
+    <Title>Salve regina</Title>
+    <Composer></Composer>
+    <Editor>Marnix van Berchum</Editor>
+  </GeneralData>
+  <VoiceData>
+    <NumVoices>4</NumVoices>
+    <Voice>
+      <Name>[Superius]</Name>
+    </Voice>
+    <Voice>
+      <Name>Contratenor</Name>
+    </Voice>
+    <Voice>
+      <Name>Tenor</Name>
+    </Voice>
+    <Voice>
+      <Name>Bassus</Name>
+    </Voice>
+  </VoiceData>
+  <MusicSection>
+    <MensuralMusic>
+      <NumVoices>4</NumVoices>
+      <Voice>
+        <VoiceNum>1</VoiceNum>
+        <EventList />
+      </Voice>
+      <Voice>
+        <VoiceNum>2</VoiceNum>
+        <EventList />
+      </Voice>
+      <Voice>
+        <VoiceNum>3</VoiceNum>
+        <EventList />
+      </Voice>
+      <Voice>
+        <VoiceNum>4</VoiceNum>
+        <EventList />
+      </Voice>
+    </MensuralMusic>
+  </MusicSection>
+</Piece>
+

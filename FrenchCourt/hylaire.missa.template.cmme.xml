@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Piece xmlns="http://www.cmme.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.cmme.org cmme.xsd" CMMEversion="0.81">
+  <GeneralData>
+    <Title>Missa</Title>
+    <Composer>Hylaire [Bernonneau?]</Composer>
+    <Editor>Theodor Dumitrescu</Editor>
+  </GeneralData>
+  <VoiceData>
+    <NumVoices>4</NumVoices>
+    <Voice>
+      <Name>[Superius]</Name>
+    </Voice>
+    <Voice>
+      <Name>[Contratenor]</Name>
+    </Voice>
+    <Voice>
+      <Name>[Tenor]</Name>
+    </Voice>
+    <Voice>
+      <Name>[Bassus]</Name>
+    </Voice>
+  </VoiceData>
+  <MusicSection>
+    <MensuralMusic>
+      <NumVoices>4</NumVoices>
+      <Voice>
+        <VoiceNum>1</VoiceNum>
+        <EventList>
+          <Clef>
+            <Appearance>G</Appearance>
+            <StaffLoc>3</StaffLoc>
+            <Pitch>
+              <LetterName>G</LetterName>
+              <OctaveNum>3</OctaveNum>
+            </Pitch>
+          </Clef>
+          <Mensuration>
+            <Sign>
+              <MainSymbol>C</MainSymbol>
+              <Strokes>1</Strokes>
+            </Sign>
+            <StaffLoc>6</StaffLoc>
+            <Small />
+          </Mensuration>
+        </EventList>
+      </Voice>
+      <Voice>
+        <VoiceNum>2</VoiceNum>
+        <EventList>
+          <Clef>
+            <Appearance>C</Appearance>
+            <StaffLoc>3</StaffLoc>
+            <Pitch>
+              <LetterName>C</LetterName>
+              <OctaveNum>3</OctaveNum>
+            </Pitch>
+          </Clef>
+          <Mensuration>
+            <Sign>
+              <MainSymbol>C</MainSymbol>
+              <Strokes>1</Strokes>
+            </Sign>
+            <StaffLoc>2</StaffLoc>
+            <Small />
+          </Mensuration>
+        </EventList>
+      </Voice>
+      <Voice>
+        <VoiceNum>3</VoiceNum>
+        <EventList>
+          <Clef>
+            <Appearance>C</Appearance>
+            <StaffLoc>5</StaffLoc>
+            <Pitch>
+              <LetterName>C</LetterName>
+              <OctaveNum>3</OctaveNum>
+            </Pitch>
+          </Clef>
+          <Mensuration>
+            <Sign>
+              <MainSymbol>C</MainSymbol>
+              <Strokes>1</Strokes>
+            </Sign>
+            <Small />
+          </Mensuration>
+        </EventList>
+      </Voice>
+      <Voice>
+        <VoiceNum>4</VoiceNum>
+        <EventList>
+          <Clef>
+            <Appearance>C</Appearance>
+            <StaffLoc>7</StaffLoc>
+            <Pitch>
+              <LetterName>C</LetterName>
+              <OctaveNum>3</OctaveNum>
+            </Pitch>
+          </Clef>
+          <Mensuration>
+            <Sign>
+              <MainSymbol>C</MainSymbol>
+              <Strokes>1</Strokes>
+            </Sign>
+            <Small />
+          </Mensuration>
+        </EventList>
+      </Voice>
+    </MensuralMusic>
+  </MusicSection>
+</Piece>
+
