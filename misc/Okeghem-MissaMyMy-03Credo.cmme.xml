@@ -6391,6 +6391,10 @@
             </Length>
             <LetterName>F</LetterName>
             <OctaveNum>2</OctaveNum>
+            <ModernAccidental>
+              <PitchOffset>1</PitchOffset>
+              <Optional />
+            </ModernAccidental>
           </Note>
           <Note>
             <Type>Brevis</Type>

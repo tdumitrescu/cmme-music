@@ -12873,6 +12873,10 @@
             </Length>
             <LetterName>C</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernAccidental>
+              <PitchOffset>1</PitchOffset>
+              <Optional />
+            </ModernAccidental>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -13741,9 +13745,6 @@
             </Length>
             <LetterName>B</LetterName>
             <OctaveNum>3</OctaveNum>
-            <ModernAccidental>
-              <PitchOffset>-1</PitchOffset>
-            </ModernAccidental>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -13753,9 +13754,6 @@
             </Length>
             <LetterName>B</LetterName>
             <OctaveNum>3</OctaveNum>
-            <ModernAccidental>
-              <PitchOffset>-1</PitchOffset>
-            </ModernAccidental>
           </Note>
           <Note>
             <Type>Minima</Type>
@@ -13774,6 +13772,9 @@
             </Length>
             <LetterName>F</LetterName>
             <OctaveNum>2</OctaveNum>
+            <ModernAccidental>
+              <PitchOffset>1</PitchOffset>
+            </ModernAccidental>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -13783,6 +13784,9 @@
             </Length>
             <LetterName>G</LetterName>
             <OctaveNum>2</OctaveNum>
+            <ModernAccidental>
+              <PitchOffset>1</PitchOffset>
+            </ModernAccidental>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -15761,6 +15765,9 @@
             </Length>
             <LetterName>B</LetterName>
             <OctaveNum>2</OctaveNum>
+            <ModernAccidental>
+              <PitchOffset>-1</PitchOffset>
+            </ModernAccidental>
             <Lig>Recta</Lig>
             <Stem>
               <Dir>Up</Dir>
