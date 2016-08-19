@@ -58,6 +58,9 @@
             </Length>
             <LetterName>A</LetterName>
             <OctaveNum>4</OctaveNum>
+            <ModernText>
+              <Syllable>Χρι</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -67,6 +70,10 @@
             </Length>
             <LetterName>A</LetterName>
             <OctaveNum>4</OctaveNum>
+            <ModernText>
+              <Syllable>στὸς</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -76,6 +83,9 @@
             </Length>
             <LetterName>A</LetterName>
             <OctaveNum>4</OctaveNum>
+            <ModernText>
+              <Syllable>ἀ</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -85,6 +95,9 @@
             </Length>
             <LetterName>G</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>νέ</Syllable>
+            </ModernText>
             <Colored />
           </Note>
           <Note>
@@ -140,6 +153,10 @@
             <Stem>
               <Dir>Down</Dir>
             </Stem>
+            <ModernText>
+              <Syllable>στη</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -154,6 +171,10 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>ἐκ</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -172,6 +193,9 @@
             </Length>
             <LetterName>F</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>νε</Syllable>
+            </ModernText>
           </Note>
           <Dot>
             <Pitch>
@@ -201,6 +225,10 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>κρῶν</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -253,6 +281,9 @@
             <Stem>
               <Dir>Down</Dir>
             </Stem>
+            <ModernText>
+              <Syllable>θα</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -262,6 +293,9 @@
             </Length>
             <LetterName>A</LetterName>
             <OctaveNum>4</OctaveNum>
+            <ModernText>
+              <Syllable>νά</Syllable>
+            </ModernText>
           </Note>
           <Dot>
             <Pitch>
@@ -304,6 +338,10 @@
             </Length>
             <LetterName>F</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>τῳ</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -313,6 +351,9 @@
             </Length>
             <LetterName>G</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>θά</Syllable>
+            </ModernText>
           </Note>
           <Dot>
             <Pitch>
@@ -366,6 +407,9 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>να</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -384,6 +428,10 @@
             </Length>
             <LetterName>E</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>τον</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -393,6 +441,9 @@
             </Length>
             <LetterName>G</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>πα</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -407,6 +458,9 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>τή</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -452,6 +506,10 @@
             </Length>
             <LetterName>A</LetterName>
             <OctaveNum>4</OctaveNum>
+            <ModernText>
+              <Syllable>σας</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <VariantReadings>
             <Reading>
@@ -492,6 +550,10 @@
             </Length>
             <LetterName>C</LetterName>
             <OctaveNum>4</OctaveNum>
+            <ModernText>
+              <Syllable>καὶ</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -504,6 +566,10 @@
             <ModernAccidental>
               <PitchOffset>-1</PitchOffset>
             </ModernAccidental>
+            <ModernText>
+              <Syllable>τοῖς</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -522,6 +588,10 @@
             </Length>
             <LetterName>G</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>ἐν</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Clef>
             <Appearance>Bmol</Appearance>
@@ -543,6 +613,10 @@
             <ModernAccidental>
               <PitchOffset>-1</PitchOffset>
             </ModernAccidental>
+            <ModernText>
+              <Syllable>τοῖς</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -561,6 +635,9 @@
             </Length>
             <LetterName>A</LetterName>
             <OctaveNum>4</OctaveNum>
+            <ModernText>
+              <Syllable>μνή</Syllable>
+            </ModernText>
           </Note>
           <Dot>
             <Pitch>
@@ -611,6 +688,9 @@
             </Length>
             <LetterName>F</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>μα</Syllable>
+            </ModernText>
           </Note>
           <Dot>
             <Pitch>
@@ -658,6 +738,10 @@
             </Length>
             <LetterName>E</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>σι</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -667,6 +751,9 @@
             </Length>
             <LetterName>G</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>ζω</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -676,6 +763,10 @@
             </Length>
             <LetterName>A</LetterName>
             <OctaveNum>4</OctaveNum>
+            <ModernText>
+              <Syllable>ὴν</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -690,6 +781,9 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>χα</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -716,6 +810,9 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>ρι</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -737,6 +834,9 @@
             <ModernAccidental>
               <PitchOffset>-1</PitchOffset>
             </ModernAccidental>
+            <ModernText>
+              <Syllable>σά</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -746,6 +846,9 @@
             </Length>
             <LetterName>A</LetterName>
             <OctaveNum>4</OctaveNum>
+            <ModernText>
+              <Syllable>με</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -758,6 +861,10 @@
             <Signum>
               <Offset>2</Offset>
             </Signum>
+            <ModernText>
+              <Syllable>νος</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Rest>
             <Type>Semibrevis</Type>
@@ -776,6 +883,9 @@
             </Length>
             <LetterName>E</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>De</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -790,6 +900,10 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>o</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -819,6 +933,9 @@
             <ModernAccidental>
               <PitchOffset>-1</PitchOffset>
             </ModernAccidental>
+            <ModernText>
+              <Syllable>gra</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -879,6 +996,9 @@
             <ModernAccidental>
               <PitchOffset>1</PitchOffset>
             </ModernAccidental>
+            <ModernText>
+              <Syllable>ci</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Longa</Type>
@@ -891,6 +1011,10 @@
             <Stem>
               <Dir>Down</Dir>
             </Stem>
+            <ModernText>
+              <Syllable>as</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
         </EventList>
       </Voice>
@@ -923,6 +1047,9 @@
             </Length>
             <LetterName>E</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>Χρι</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -932,6 +1059,10 @@
             </Length>
             <LetterName>E</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>στὸς</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -946,6 +1077,9 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>ἀ</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -964,6 +1098,9 @@
             </Length>
             <LetterName>D</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>νέ</Syllable>
+            </ModernText>
           </Note>
           <Dot>
             <Pitch>
@@ -1035,6 +1172,10 @@
             </Length>
             <LetterName>F</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>στη</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -1049,6 +1190,10 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>ἐκ</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -1072,6 +1217,9 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>νε</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -1119,6 +1267,10 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>κρῶν</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -1181,6 +1333,9 @@
             </Length>
             <LetterName>F</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>θα</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -1190,6 +1345,9 @@
             </Length>
             <LetterName>F</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>νά</Syllable>
+            </ModernText>
           </Note>
           <VariantReadings>
             <Reading>
@@ -1272,6 +1430,10 @@
             </Length>
             <LetterName>F</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>τῳ</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Minima</Type>
@@ -1299,6 +1461,9 @@
             </Length>
             <LetterName>C</LetterName>
             <OctaveNum>4</OctaveNum>
+            <ModernText>
+              <Syllable>θά</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -1340,6 +1505,9 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>να</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -1358,6 +1526,10 @@
             </Length>
             <LetterName>G</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>τον</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -1376,6 +1548,9 @@
             </Length>
             <LetterName>D</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>πα</Syllable>
+            </ModernText>
           </Note>
           <Dot>
             <Pitch>
@@ -1400,6 +1575,9 @@
             </Length>
             <LetterName>E</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>τή</Syllable>
+            </ModernText>
           </Note>
           <Dot>
             <Pitch>
@@ -1424,6 +1602,10 @@
             </Length>
             <LetterName>D</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>σας</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Rest>
             <Type>Brevis</Type>
@@ -1442,6 +1624,10 @@
             </Length>
             <LetterName>G</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>καὶ</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Dot>
             <Pitch>
@@ -1457,6 +1643,10 @@
             </Length>
             <LetterName>F</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>τοῖς</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -1466,6 +1656,10 @@
             </Length>
             <LetterName>E</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>ἐν</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -1475,6 +1669,10 @@
             </Length>
             <LetterName>D</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>τοῖς</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -1489,6 +1687,9 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>μνή</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -1512,6 +1713,9 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>μα</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -1530,6 +1734,10 @@
             </Length>
             <LetterName>C</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>σι</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Rest>
             <Type>Semibrevis</Type>
@@ -1548,6 +1756,9 @@
             </Length>
             <LetterName>C</LetterName>
             <OctaveNum>4</OctaveNum>
+            <ModernText>
+              <Syllable>ζω</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -1557,6 +1768,10 @@
             </Length>
             <LetterName>B</LetterName>
             <OctaveNum>4</OctaveNum>
+            <ModernText>
+              <Syllable>ὴν</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Dot>
             <Pitch>
@@ -1591,6 +1806,9 @@
             <LetterName>B</LetterName>
             <OctaveNum>4</OctaveNum>
             <Lig>Recta</Lig>
+            <ModernText>
+              <Syllable>χα</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -1641,6 +1859,9 @@
             </Length>
             <LetterName>E</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>ρι</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Minima</Type>
@@ -1659,6 +1880,9 @@
             </Length>
             <LetterName>D</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>σά</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -1699,6 +1923,9 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>με</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -1733,6 +1960,10 @@
             <LetterName>E</LetterName>
             <OctaveNum>3</OctaveNum>
             <Lig>Recta</Lig>
+            <ModernText>
+              <Syllable>νος</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -1760,6 +1991,9 @@
             </Length>
             <LetterName>E</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>De</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -1769,6 +2003,10 @@
             </Length>
             <LetterName>G</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>o</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -1778,6 +2016,9 @@
             </Length>
             <LetterName>E</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>gra</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -1796,6 +2037,9 @@
             </Length>
             <LetterName>D</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>ci</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Longa</Type>
@@ -1808,6 +2052,10 @@
             <Stem>
               <Dir>Down</Dir>
             </Stem>
+            <ModernText>
+              <Syllable>as</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
         </EventList>
       </Voice>
@@ -1848,6 +2096,9 @@
             <LetterName>A</LetterName>
             <OctaveNum>3</OctaveNum>
             <Lig>Recta</Lig>
+            <ModernText>
+              <Syllable>Χρι</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -1871,6 +2122,10 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>στὸς</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -1892,6 +2147,9 @@
             <ModernAccidental>
               <PitchOffset>-1</PitchOffset>
             </ModernAccidental>
+            <ModernText>
+              <Syllable>ἀ</Syllable>
+            </ModernText>
           </Note>
           <Dot>
             <Pitch>
@@ -1921,6 +2179,9 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>νέ</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -1960,6 +2221,10 @@
             </Length>
             <LetterName>C</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>στη</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -1983,6 +2248,10 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>ἐκ</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -2006,6 +2275,9 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>νε</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -2024,6 +2296,10 @@
             </Length>
             <LetterName>A</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>κρῶν</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -2102,6 +2378,9 @@
             </Length>
             <LetterName>D</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>θα</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -2111,6 +2390,9 @@
             </Length>
             <LetterName>D</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>νά</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -2177,6 +2459,10 @@
             </Length>
             <LetterName>D</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>τῳ</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -2186,6 +2472,9 @@
             </Length>
             <LetterName>C</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>θά</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -2247,6 +2536,9 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>να</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -2281,6 +2573,10 @@
             <ModernAccidental>
               <PitchOffset>-1</PitchOffset>
             </ModernAccidental>
+            <ModernText>
+              <Syllable>τον</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -2290,6 +2586,9 @@
             </Length>
             <LetterName>A</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>πα</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -2299,6 +2598,9 @@
             </Length>
             <LetterName>C</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>τή</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -2317,6 +2619,10 @@
             </Length>
             <LetterName>F</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>σας</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -2387,6 +2693,10 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>καὶ</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -2399,6 +2709,10 @@
             <ModernAccidental>
               <PitchOffset>-1</PitchOffset>
             </ModernAccidental>
+            <ModernText>
+              <Syllable>τοῖς</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -2408,6 +2722,10 @@
             </Length>
             <LetterName>G</LetterName>
             <OctaveNum>2</OctaveNum>
+            <ModernText>
+              <Syllable>ἐν</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Minima</Type>
@@ -2417,6 +2735,10 @@
             </Length>
             <LetterName>A</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>τοῖς</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Minima</Type>
@@ -2438,6 +2760,9 @@
             </Length>
             <LetterName>C</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>μνή</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -2452,6 +2777,9 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>μα</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -2475,6 +2803,10 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>σι</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -2503,6 +2835,9 @@
             </Length>
             <LetterName>C</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>ζω</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -2526,6 +2861,10 @@
               <Dir>Down</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>ὴν</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -2553,6 +2892,9 @@
             </Length>
             <LetterName>G</LetterName>
             <OctaveNum>2</OctaveNum>
+            <ModernText>
+              <Syllable>χα</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -2570,6 +2912,9 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>ρι</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -2579,6 +2924,9 @@
             </Length>
             <LetterName>A</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>σά</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -2588,6 +2936,9 @@
             </Length>
             <LetterName>G</LetterName>
             <OctaveNum>2</OctaveNum>
+            <ModernText>
+              <Syllable>με</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -2597,6 +2948,10 @@
             </Length>
             <LetterName>F</LetterName>
             <OctaveNum>2</OctaveNum>
+            <ModernText>
+              <Syllable>νος</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Rest>
             <Type>Brevis</Type>
@@ -2615,6 +2970,9 @@
             </Length>
             <LetterName>C</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>De</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -2624,6 +2982,10 @@
             </Length>
             <LetterName>D</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>o</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Minima</Type>
@@ -2654,6 +3016,9 @@
             </Length>
             <LetterName>G</LetterName>
             <OctaveNum>2</OctaveNum>
+            <ModernText>
+              <Syllable>gra</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -2699,6 +3064,9 @@
             </Length>
             <LetterName>A</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>ci</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Longa</Type>
@@ -2711,6 +3079,10 @@
             <Stem>
               <Dir>Down</Dir>
             </Stem>
+            <ModernText>
+              <Syllable>as</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
         </EventList>
       </Voice>
@@ -2744,6 +3116,9 @@
             <LetterName>A</LetterName>
             <OctaveNum>2</OctaveNum>
             <Lig>Recta</Lig>
+            <ModernText>
+              <Syllable>Χρι</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -2767,6 +3142,10 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>στὸς</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -2797,6 +3176,9 @@
             <ModernAccidental>
               <PitchOffset>-1</PitchOffset>
             </ModernAccidental>
+            <ModernText>
+              <Syllable>ἀ</Syllable>
+            </ModernText>
           </Note>
           <VariantReadings>
             <Reading>
@@ -2847,6 +3229,9 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>νέ</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -2907,6 +3292,10 @@
             <Stem>
               <Dir>Down</Dir>
             </Stem>
+            <ModernText>
+              <Syllable>στη</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -2916,6 +3305,10 @@
             </Length>
             <LetterName>F</LetterName>
             <OctaveNum>2</OctaveNum>
+            <ModernText>
+              <Syllable>ἐκ</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -2934,6 +3327,9 @@
             </Length>
             <LetterName>C</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>νε</Syllable>
+            </ModernText>
           </Note>
           <Dot>
             <Pitch>
@@ -2958,6 +3354,10 @@
             </Length>
             <LetterName>C</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>κρῶν</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -2967,10 +3367,6 @@
             </Length>
             <LetterName>B</LetterName>
             <OctaveNum>3</OctaveNum>
-            <ModernAccidental>
-              <PitchOffset>-1</PitchOffset>
-              <Optional />
-            </ModernAccidental>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -3038,6 +3434,9 @@
             <LetterName>D</LetterName>
             <OctaveNum>2</OctaveNum>
             <Lig>Recta</Lig>
+            <ModernText>
+              <Syllable>θα</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Longa</Type>
@@ -3065,6 +3464,9 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>νά</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -3088,6 +3490,10 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>τῳ</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -3122,6 +3528,9 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>θά</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -3164,6 +3573,9 @@
             </Length>
             <LetterName>D</LetterName>
             <OctaveNum>2</OctaveNum>
+            <ModernText>
+              <Syllable>να</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -3173,6 +3585,10 @@
             </Length>
             <LetterName>D</LetterName>
             <OctaveNum>2</OctaveNum>
+            <ModernText>
+              <Syllable>τον</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Rest>
             <Type>Brevis</Type>
@@ -3192,6 +3608,9 @@
             <LetterName>C</LetterName>
             <OctaveNum>2</OctaveNum>
             <Lig>Recta</Lig>
+            <ModernText>
+              <Syllable>πα</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -3219,6 +3638,9 @@
             </Length>
             <LetterName>C</LetterName>
             <OctaveNum>2</OctaveNum>
+            <ModernText>
+              <Syllable>τή</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -3237,6 +3659,10 @@
             </Length>
             <LetterName>D</LetterName>
             <OctaveNum>2</OctaveNum>
+            <ModernText>
+              <Syllable>σας</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Rest>
             <Type>Semibrevis</Type>
@@ -3255,6 +3681,10 @@
             </Length>
             <LetterName>G</LetterName>
             <OctaveNum>2</OctaveNum>
+            <ModernText>
+              <Syllable>καὶ</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -3264,6 +3694,10 @@
             </Length>
             <LetterName>C</LetterName>
             <OctaveNum>2</OctaveNum>
+            <ModernText>
+              <Syllable>τοῖς</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -3278,6 +3712,10 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>ἐν</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -3301,6 +3739,10 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>τοῖς</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -3328,6 +3770,9 @@
             </Length>
             <LetterName>F</LetterName>
             <OctaveNum>2</OctaveNum>
+            <ModernText>
+              <Syllable>μνή</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -3337,6 +3782,9 @@
             </Length>
             <LetterName>C</LetterName>
             <OctaveNum>2</OctaveNum>
+            <ModernText>
+              <Syllable>μα</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -3351,6 +3799,10 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>σι</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -3374,6 +3826,9 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>ζω</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -3393,6 +3848,10 @@
             <LetterName>D</LetterName>
             <OctaveNum>2</OctaveNum>
             <Lig>Recta</Lig>
+            <ModernText>
+              <Syllable>ὴν</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -3450,6 +3909,9 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>χα</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -3468,6 +3930,9 @@
             </Length>
             <LetterName>C</LetterName>
             <OctaveNum>3</OctaveNum>
+            <ModernText>
+              <Syllable>ρι</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -3480,6 +3945,9 @@
             <ModernAccidental>
               <PitchOffset>-1</PitchOffset>
             </ModernAccidental>
+            <ModernText>
+              <Syllable>σά</Syllable>
+            </ModernText>
           </Note>
           <Dot>
             <Pitch>
@@ -3507,6 +3975,9 @@
             <ModernAccidental>
               <PitchOffset>1</PitchOffset>
             </ModernAccidental>
+            <ModernText>
+              <Syllable>με</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -3521,6 +3992,10 @@
               <Dir>Up</Dir>
               <Side>Left</Side>
             </Stem>
+            <ModernText>
+              <Syllable>νος</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -3556,6 +4031,9 @@
             </Length>
             <LetterName>C</LetterName>
             <OctaveNum>2</OctaveNum>
+            <ModernText>
+              <Syllable>De</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -3565,6 +4043,10 @@
             </Length>
             <LetterName>F</LetterName>
             <OctaveNum>2</OctaveNum>
+            <ModernText>
+              <Syllable>o</Syllable>
+              <WordEnd />
+            </ModernText>
           </Note>
           <Note>
             <Type>Semibrevis</Type>
@@ -3583,6 +4065,9 @@
             </Length>
             <LetterName>G</LetterName>
             <OctaveNum>2</OctaveNum>
+            <ModernText>
+              <Syllable>gra</Syllable>
+            </ModernText>
           </Note>
           <Note>
             <Type>Brevis</Type>
@@ -3610,6 +4095,9 @@
             </Length>
             <LetterName>D</LetterName>
             <OctaveNum>2</OctaveNum>
+            <ModernText>
+              <Syllable>ci</Syllable>
+            </ModernText>
           </Note>
           <MultiEvent>
             <Note>
@@ -3620,6 +4108,10 @@
               </Length>
               <LetterName>G</LetterName>
               <OctaveNum>1</OctaveNum>
+              <ModernText>
+                <Syllable>as</Syllable>
+                <WordEnd />
+              </ModernText>
             </Note>
             <Note>
               <Type>Longa</Type>
