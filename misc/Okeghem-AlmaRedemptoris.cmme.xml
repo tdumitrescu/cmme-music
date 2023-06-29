@@ -7023,6 +7023,10 @@ unreadable)</PublicNotes>
             </Length>
             <LetterName>F</LetterName>
             <OctaveNum>4</OctaveNum>
+            <ModernAccidental>
+              <PitchOffset>1</PitchOffset>
+              <Optional />
+            </ModernAccidental>
             <Lig>Recta</Lig>
             <Stem>
               <Dir>Up</Dir>
@@ -8243,15 +8247,15 @@ unreadable)</PublicNotes>
             </Number>
             <MensInfo>
               <Prolatio>2</Prolatio>
-              <Tempus>2</Tempus>
+              <Tempus>3</Tempus>
               <ModusMinor>2</ModusMinor>
               <ModusMaior>2</ModusMaior>
+              <TempoChange>
+                <Num>3</Num>
+                <Den>2</Den>
+              </TempoChange>
             </MensInfo>
           </Mensuration>
-          <Proportion>
-            <Num>3</Num>
-            <Den>2</Den>
-          </Proportion>
           <Note>
             <Type>Brevis</Type>
             <Length>
@@ -9521,15 +9525,15 @@ unreadable)</PublicNotes>
             </Number>
             <MensInfo>
               <Prolatio>2</Prolatio>
-              <Tempus>2</Tempus>
+              <Tempus>3</Tempus>
               <ModusMinor>2</ModusMinor>
               <ModusMaior>2</ModusMaior>
+              <TempoChange>
+                <Num>3</Num>
+                <Den>2</Den>
+              </TempoChange>
             </MensInfo>
           </Mensuration>
-          <Proportion>
-            <Num>3</Num>
-            <Den>2</Den>
-          </Proportion>
           <Note>
             <Type>Brevis</Type>
             <Length>
@@ -10736,15 +10740,15 @@ unreadable)</PublicNotes>
             </Number>
             <MensInfo>
               <Prolatio>2</Prolatio>
-              <Tempus>2</Tempus>
+              <Tempus>3</Tempus>
               <ModusMinor>2</ModusMinor>
               <ModusMaior>2</ModusMaior>
+              <TempoChange>
+                <Num>3</Num>
+                <Den>2</Den>
+              </TempoChange>
             </MensInfo>
           </Mensuration>
-          <Proportion>
-            <Num>3</Num>
-            <Den>2</Den>
-          </Proportion>
           <Note>
             <Type>Brevis</Type>
             <Length>
@@ -11901,18 +11905,17 @@ unreadable)</PublicNotes>
               <Num>3</Num>
               <Den>0</Den>
             </Number>
-            <StaffLoc>1</StaffLoc>
             <MensInfo>
               <Prolatio>2</Prolatio>
-              <Tempus>2</Tempus>
+              <Tempus>3</Tempus>
               <ModusMinor>2</ModusMinor>
               <ModusMaior>2</ModusMaior>
+              <TempoChange>
+                <Num>3</Num>
+                <Den>2</Den>
+              </TempoChange>
             </MensInfo>
           </Mensuration>
-          <Proportion>
-            <Num>3</Num>
-            <Den>2</Den>
-          </Proportion>
           <Note>
             <Type>Brevis</Type>
             <Length>
